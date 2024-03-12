@@ -1,0 +1,13 @@
+name: profit_loss_calculation
+title: profit_loss_calculation
+username: erdinctasci
+account: erdinctasci
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11466020
+bundleId: 8362168
+url: https://erdinctasci.shinyapps.io/profit_loss_calculation/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: profit_loss_calculation.py
